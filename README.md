@@ -19,5 +19,5 @@ Ex: localhost:6969/zing.vn
 
 The information of link is saved in bookmark.json
 
-# screenshot
+# Screenshot
  ![screenshot](screenshot.png)
